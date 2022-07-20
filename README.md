@@ -7,7 +7,7 @@ This is the first actual website I've built after learning HTML, CSS, and Bootst
 
 
 ## 🔗 Link
-https://devshah-27.github.io/museum-of-candy-responsive-demo/
+https://devshah-27.github.io/responsive-site-demo/
 
 ## Screenshot
 
